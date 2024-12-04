@@ -1,0 +1,8 @@
+
+Terraform:
+create eks cluster and configure ingress to deploy the application 
+configure RDS database for backend configuration of application
+install promethues and grafana through helm 
+Provide a README.md file that explains how to deploy and test the infrastructure
+using Terraform.
+
