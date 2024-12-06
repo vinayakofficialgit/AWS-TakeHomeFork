@@ -1,8 +1,10 @@
 
-Terraform:
-create eks cluster and configure ingress to deploy the application 
+
+1).Use Terraform to create eks cluster and configure ingress to deploy the application 
 configure the RDS database for the backend configuration of the application
-install Prometheus and grafana through the helm 
+2).Install Prometheus and grafana through the helm 
+
+3).Use AWS lamda services that should upload resources and application logs  automatically  to s3  
+
 Provide a README.md file that explains how to deploy and test the infrastructure
 using Terraform.
-
